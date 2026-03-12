@@ -1,4 +1,4 @@
-# Proyecto 7 - Explorando factores de comportamiento en NovaRetail+
+# Explorando factores de comportamiento en NovaRetail+
 NovaRetail+ es una plataforma de comercio electrónico en Latinoamérica con millones de usuarios.
 
 Para el cierre de 2024, el equipo de Crecimiento y retención tiene como objetivo responder:
