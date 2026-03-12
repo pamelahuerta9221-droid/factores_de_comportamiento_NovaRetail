@@ -12,7 +12,7 @@ Correlación ≠ causalidad.
 
 ## Hallazgo 1 — Impacto de la publicidad en el tráfico y compras dentro de la plataforma
 
-###Evidencia visual:
+### Evidencia visual:
 
 visitas_vs_publicidad.png
 
