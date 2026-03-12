@@ -14,13 +14,22 @@ Correlación ≠ causalidad.
 
 ### Evidencia visual:
 
-visitas_vs_publicidad.png
+<p align="center">
+  <img src="screenshots/visitas_vs_publicidad.png" width="800">
+</p>
 
-visitas_vs_compras.png
+<p align="center">
+  <img src="screenshots/visitas_vs_compras.png" width="800">
+</p>
+
+
 
 ### Evidencia numérica:
 
-Pearson.png
+<p align="center">
+  <img src="screenshots/Pearson.png" width="800">
+</p>
+
 
 ### Interpretación
 
@@ -48,7 +57,10 @@ Adicionalmete, para incrementar el número de compras a partir del tráfico exis
 
 ### Evidencia numérica:
 
-biserial.png
+<p align="center">
+  <img src="screenshots/biserial.png" width="800">
+</p>
+
 
 ### Interpretación
 
@@ -66,7 +78,10 @@ Sería recomendable reforzar las estrategias de fidelización, así como optimiz
 
 ### Evidencia numérica:
 
-cramer.png
+<p align="center">
+  <img src="screenshots/cramer.png" width="800">
+</p>
+
 
 ### Interpretación
 
